@@ -1,0 +1,95 @@
+.titulo1 {
+    font-family: 'Suez One', serif;
+    background-image: url(../Imagenes/empanadas2.png);
+    font-size: 40px;
+    font-weight: bolder;
+    color:orange;
+    text-align: center;
+    margin: 1% auto;
+    border-radius: 0.5rem;
+    width: 85%;
+    padding: 1%;
+    text-decoration: underline;
+
+}
+
+.titulo2{
+  font-family: 'Lobster Two', cursive;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.titulo3{
+  font-family: cursive;
+  font-size:25px;
+}
+
+.listas{
+  font-family: 'Itim', cursive;
+  font-size: 20px;
+}
+
+p{
+  font-family: 'Itim', cursive;
+  font-size: 20px;
+}
+
+
+.imagen{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border-radius: 1.5rem;
+}
+
+body{
+  background-color: #F4F7BE;
+  margin: 0%;
+  padding: 0%;
+  background-image: url("https://image.freepik.com/free-vector/cooking-icons-seamless-pattern_98292-4834.jpg");
+  background-image: url("https://st2.depositphotos.com/2013817/7791/v/600/depositphotos_77910146-stock-illustration-kitchen-doodle-sketch-utensils.jpg");
+  background-repeat: repeat;
+
+}
+
+.cuerpo{
+  margin: 1% auto;
+  border-radius: 0.5rem;
+  width: 85%;
+  padding: 1%;
+  background-color: white;
+  color: black;
+}
+
+.supercuerpo {
+  margin: 0.5% auto;
+  border-radius: 0.5rem;
+  width: 85%;
+  padding: 0.5%;
+  background-color: orange;
+  /*background-image: url("https://previews.123rf.com/images/medusa81/medusa811205/medusa81120500029/13579947-d%C3%ADa-de-campo-patr%C3%B3n-mantel-de-vectores.jpg");
+  background-repeat: repeat;
+  */
+}
+
+
+.video{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.final{
+  margin: 1% auto;
+  border-radius: 1.5rem;
+  width: 85%;
+  padding: 1%;
+  text-align: center;
+  background-color: white;
+  color: black;
+}
+
+.link{
+  font-family: cursive;
+}
