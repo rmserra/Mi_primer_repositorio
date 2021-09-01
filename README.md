@@ -1,2 +1,2 @@
-# Mi_primer_repositorio
+# Receta tucumana
 Tarea de clase 2 - Receta
